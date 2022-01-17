@@ -33,7 +33,7 @@ https://github.com/goodwinamundson/secure-password-generator
 can be accessed at:
 
 
-https://goodwinamundson.github.io/secure-password-generator/index.html
+https://goodwinamundson.github.io/secure-password-generator/Develop/index.html
 
 ## screenshots
 
